@@ -1,2 +1,2 @@
 # test_django_python3
-基于runoob.com中django的第一个项目进行练手操作,环境有python3.6.5和django1.11.14,一个练手的项目教程.命名为test_django_python3
+Based on the first project of django in runoob.com, the environment has python3.6.5 and django1.11.14, a hands-on project tutorial. Named test_django_python3
